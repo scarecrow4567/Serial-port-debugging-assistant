@@ -62,4 +62,6 @@ git clone https://github.com/LucasShi1101/Serial-port-debugging-assistant.git
 
 📄 开源协议
 本项目基于 MIT License 协议开源。
+二次开发计划：新增实时波形绘图、接收数据导出CSV功能
+
 
